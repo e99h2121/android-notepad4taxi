@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Taxi</string>
+    <string name="no_notes">No Direction Yet</string>
+    <string name="menu_insert">Add Direction</string>
+    <string name="menu_delete">Delete Direction</string>
+    <string name="title">Title</string>
+    <string name="body">Direction</string>
+    <string name="howtoread">How to read</string>
+    <string name="confirm">Confirm</string>
+    <string name="edit_note">Edit Direction</string>
+</resources>
